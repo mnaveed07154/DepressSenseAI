@@ -353,18 +353,15 @@ The framework ensures reproducibility through:
 
 # Citation
 
+Citation
 If you use this repository, please cite:
-
-```bibtex
 @article{DepressSenseAI2026,
-  title={DepressSenseAI: A Speech-Based Depression Detection Framework Using VoxDepressNet with Domain-Invariant and Multi-Task Learning},
-  author={Mohd Naveed},
-  journal={SCI Journal},
-  year={2026}
+title={DepressSenseAI: A Speech-Based Depression Detection Framework Using VoxDepressNet
+with Domain-Invariant and Multi-Task Learning},
+author={Author Name},
+journal={SCI Journal},
+year={2026}
 }
-```
-
----
 
 # License
 
