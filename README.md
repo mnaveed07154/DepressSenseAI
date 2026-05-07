@@ -368,7 +368,7 @@ If you use this repository, please cite:
 
 # License
 
-This project is intended for academic and research purposes.
+This project is intended for research purposes.
 
 ---
 
@@ -376,5 +376,5 @@ This project is intended for academic and research purposes.
 
 For research collaborations, issues, or improvements:
 
-- Author: Mohd Naveed
+- Author:  Naveed
 - GitHub: https://github.com/mnaveed07154
