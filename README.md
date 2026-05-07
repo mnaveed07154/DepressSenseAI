@@ -317,16 +317,6 @@ Includes:
 - plots/
 - logs/
 
-Example outputs:
-
-- trained_model.pt
-- classification_report.csv
-- severity_metrics.csv
-- confusion_matrix.png
-- roc_curve.png
-- attention_weights.csv
-- cross_dataset_results.csv
-
 ---
 
 # Reproducibility
@@ -368,10 +358,3 @@ year={2026}
 This project is intended for research purposes.
 
 ---
-
-# Contact
-
-For research collaborations, issues, or improvements:
-
-- Author:  Naveed
-- GitHub: https://github.com/mnaveed07154
