@@ -1,0 +1,7 @@
+session_id,subject_id,audio_path,label,severity,domain,dataset
+demo_000,subj_000,data/raw/demo/demo_000.wav,0,,0,ADC
+demo_001,subj_001,data/raw/demo/demo_001.wav,1,,1,EATD
+demo_002,subj_002,data/raw/demo/demo_002.wav,0,7.7355104704868385,2,PDCH
+demo_003,subj_003,data/raw/demo/demo_003.wav,1,,0,ADC
+demo_004,subj_004,data/raw/demo/demo_004.wav,0,,1,EATD
+demo_005,subj_005,data/raw/demo/demo_005.wav,1,15.257490564880138,2,PDCH
