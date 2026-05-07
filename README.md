@@ -120,7 +120,7 @@ Where:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/mnaveed07154/DepressSenseAI.git
+git clone https://github.com/mnaveed07154/DepressSenseAI
 cd DepressSenseAI
 ```
 
