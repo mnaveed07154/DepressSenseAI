@@ -124,22 +124,6 @@ git clone https://github.com/mnaveed07154/DepressSenseAI
 cd DepressSenseAI
 ```
 
-## Create Virtual Environment
-
-### Windows
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-### Linux / Mac
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
 ## Install Dependencies
 
 ```bash
